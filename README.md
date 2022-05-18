@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=annecgs&theme=radical&show_icons=true)](github.com/annecgs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annecgs&theme=radical&show_icons=true)](github.com/annecgs)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=annecgs&theme=radical&show_icons=true)](https://github.com/annecgs/annecgs/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annecgs&theme=radical&show_icons=true)](https://github.com/annecgs/annecgs/)
 
 ## Tecnologias Mobile
 <img src ="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/> <img src = "https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" /> <img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
