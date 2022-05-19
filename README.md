@@ -25,6 +25,5 @@ Here are some ideas to get you started:
 
 <!--![snake gif](https://github.com/annecgs/annecgs/blob/output/github-contribution-grid-snake.svg)-->
 
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
  
