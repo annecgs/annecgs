@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 ## Tecnologias Mobile
 <img src ="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/> <img src = "https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" /> <img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![snake gif](https://github.com/annecgs/https://github.com/annecgs/annecgs/blob/output/github-contribution-grid-snake.svg)
 
  
