@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Badge](https://visitor-counter-badge.vercel.app/api/annecgs/visitor-counter-badge/?label=Visitor&color=fc7695&labelColor=#C71585)
+![Badge](https://visitor-counter-badge.vercel.app/api/annecgs/visitor-counter-badge/?label=Visitor&color=fc7695&labelColor=C71585)
 
 <!--
 **annecgs/annecgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
