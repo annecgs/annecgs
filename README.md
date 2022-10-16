@@ -1,6 +1,6 @@
 
 ![Badge](https://visitor-counter-badge.vercel.app/api/annecgs/visitor-counter-badge/?label=Visitor&color=fc7695&labelColor=C71585)
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=Portifolio%20Mobile%20em%20Desenvolvimento&color=993399&style=for-the-badge)
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=Portfolio%20Mobile%20em%20Desenvolvimento&color=993399&style=for-the-badge)
 <h1 text align = "center">Ana Claudia Mobile Developer</h1>
 
 ### Hello, I'm Ana, Brazilian, from Rio de Janeiro and a technology professional with skills in mobile development, front-end, back-end and data science.
