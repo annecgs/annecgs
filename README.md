@@ -1,6 +1,6 @@
 
 ![Badge](https://visitor-counter-badge.vercel.app/api/annecgs/visitor-counter-badge/?label=Visitor&color=fc7695&labelColor=C71585)
-<h1 text align = "center">Ana Claudia Develops Mobile</h1>
+<h1 text align = "center">Ana Claudia Mobile Developer</h1>
 
 ### Hello, I'm Ana, Brazilian, from Rio de Janeiro and a technology professional with skills in mobile development, front-end, back-end and data science.
 
