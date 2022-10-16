@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, I'm Ana, Brazilian, from Rio de Janeiro and a technology professional with skills in mobile development, front-end, back-end and data science.
 
 <!--
 **annecgs/annecgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
