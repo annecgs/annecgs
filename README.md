@@ -27,6 +27,11 @@ Here are some ideas to get you started:
 
 ## Mobile Badges
 
+<div float="left">
+<img src = "https://user-images.githubusercontent.com/103140224/196045848-0d64228f-08c8-4aa2-a505-516a2419a50d.png" witdh="100px" height="100px"/>
+<img src = "https://user-images.githubusercontent.com/103140224/196045892-9cbf4873-d1b6-4033-9bb8-9ce3b0e7de1e.png" witdh="100px" height="100px"/>
+<img src = "https://user-images.githubusercontent.com/103140224/196045905-f35babed-c600-4192-b742-2c2c68bb3a1b.png" witdh="100px" height="100px"/>
+</div>
 
 ## Ignite Lab Participations
 <img src="https://user-images.githubusercontent.com/103140224/196045373-89892c79-3989-43b4-9d61-5660ac65fa6b.png" width="350px"/>
