@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 ![Badge](https://visitor-counter-badge.vercel.app/api/annecgs/visitor-counter-badge/?label=Visitor&color=fc7695&labelColor=C71585)
 
 <div align="center">
-  <a href="https://github.com/Aninhacgs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aninhacgs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aninhacgs&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/annecgs">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=annecgs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annecgs&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ## Tecnologias Mobile
