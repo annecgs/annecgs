@@ -1,9 +1,15 @@
 
 ![Badge](https://visitor-counter-badge.vercel.app/api/annecgs/visitor-counter-badge/?label=Visitor&color=fc7695&labelColor=C71585)
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=Portfolio%20Mobile%20em%20Desenvolvimento&color=993399&style=for-the-badge)
-<h1 text align = "center">Ana Claudia Mobile Developer</h1>
+<!--h1 text align = "center">Ana Claudia Mobile Developer</h1-->
+<br/><br/>
 
-### Hello, I'm Ana, Brazilian, from Rio de Janeiro and a technology professional with skills in mobile development, front-end, back-end and data science.
+
+<h1 text align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Codes&size=35&pause=1000&color=C71585&labe&center=true&width=785&height=70&lines=Hello+I'm+Ana+Claudia;I'm+Mobile+Developer;" alt="Typing SVG" /></a></h1>
+
+<!--### Hello, I'm Ana, Brazilian, from Rio de Janeiro and a technology professional with skills in mobile development, front-end, back-end and data science.-->
+
+<!--https://readme-typing-svg.herokuapp.com/demo/-->
 
 <!--
 **annecgs/annecgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
