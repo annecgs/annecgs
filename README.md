@@ -35,9 +35,9 @@ Here are some ideas to get you started:
 </div>
 
 ## Alura Formations
-<div float="left">
+<!--<div float="left">
 <a href = "https://cursos.alura.com.br/degree/certificate/84234d92-d391-4218-af81-814a961bbba0"><img src="https://user-images.githubusercontent.com/103140224/196047263-9bc92776-1e80-4083-a785-0933a357901c.png"witdh="80px" height="80px"/></a>
-</div>
+</div>-->
 
 ## Mobile Badges
 
