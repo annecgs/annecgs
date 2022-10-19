@@ -26,7 +26,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<br/><br/>
+<br/>
+
+## My Skills
+<li>MVVM architecture</li>
+<li>Automated tests</li>
+<li>accessibility</li>
+<li>modularization</li>
+
+<br/>
+
 ## My Performance Mobile Development
 <div align="center">
   <a href="https://github.com/annecgs">
