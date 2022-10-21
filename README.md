@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 ## My Skills
 <li>MVVM architecture</li>
 <li>Automated tests</li>
-<li>accessibility</li>
-<li>modularization</li>
+<li>Accessibility</li>
+<li>Modularization</li>
 
 <br/>
 
