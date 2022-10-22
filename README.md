@@ -3,6 +3,8 @@
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=Portfolio%20Mobile%20em%20Desenvolvimento&color=993399&style=for-the-badge)
 <!--h1 text align = "center">Ana Claudia Mobile Developer</h1-->
 
+<!--![](https://komarev.com/ghpvc/?username=annecgs&style=flat-square&color=green)-->
+
 
 
 <h1 text align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Codes&size=35&pause=1000&color=C71585&labe&center=true&width=785&height=70&lines=Hello+I'm+Ana+Claudia;I'm+Mobile+Developer;I+program+in+kotlin+and+java;" alt="Typing SVG" /></a></h1>
