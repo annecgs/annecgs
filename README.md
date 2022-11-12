@@ -65,6 +65,10 @@ Here are some ideas to get you started:
 
 ## Mobile Technologies
 <img src ="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/> <img src = "https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" /> <img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  
+<br/><br/>
+## My GitHub Profile Trophy  
+[![trophy](https://github-profile-trophy.vercel.app/?username=annecgs&theme=onedark)](https://github.com/annecgs/github-profile-trophy)
 
 
 ![Snake animation](https://github.com/annecgs/annecgs/blob/output/github-contribution-grid-snake.svg)
