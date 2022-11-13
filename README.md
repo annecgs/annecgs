@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-## My Performance Mobile Development
+## My Android Development Performance
 <div align="center">
   <a href="https://github.com/annecgs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=annecgs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
