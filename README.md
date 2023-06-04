@@ -1,5 +1,5 @@
 
-![Profile views](https://gpvc.arturio.dev/annecgs)
+<!--![Profile views](https://gpvc.arturio.dev/annecgs)-->
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=Portfolio%20Mobile%20em%20Desenvolvimento&color=993399&style=for-the-badge)
 <!--h1 text align = "center">Ana Claudia Mobile Developer</h1-->
 
