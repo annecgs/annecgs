@@ -37,11 +37,14 @@ Here are some ideas to get you started:
 
 <br/>
 
-## My Skills
-<li>MVVM architecture</li>
-<li>Automated tests</li>
-<li>Accessibility</li>
-<li>Modularization</li>
+## My Hard Skills
+<li>Mobile Developer</li>
+<li>Front-End Developer</li>
+<li>Data Analytics</li>
+<li>Data Sciece</li>
+
+## My Soft Skills
+<li>I am a creative, curious and empathetic person</li>
 
 <br/>
 
