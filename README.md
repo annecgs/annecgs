@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <li>Mobile Developer</li>
 <li>Front-End Developer</li>
 <li>Data Analytics</li>
-<li>Data Sciece</li>
+<li>Data Science</li>
 
 ## My Soft Skills
 <li>I am a creative, curious and empathetic person</li>
