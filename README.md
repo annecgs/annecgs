@@ -51,8 +51,8 @@ Here are some ideas to get you started:
 ## My Android Development Performance
 <div>
   <a href="https://github.com/annecgs">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=annecgs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annecgs&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=annecgs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annecgs&theme=dracula"/>
 </div>
 
 ## Mobile Badges
