@@ -63,9 +63,6 @@ Here are some ideas to get you started:
 <img src = "https://user-images.githubusercontent.com/103140224/196045905-f35babed-c600-4192-b742-2c2c68bb3a1b.png" witdh="100px" height="100px"/>
 </div>
 
-## Ignite Lab Participations
-<img src="https://user-images.githubusercontent.com/103140224/196045373-89892c79-3989-43b4-9d61-5660ac65fa6b.png" width="250px"/>
-
 ## Mobile Languages
 <img src = "https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" /> <img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 
@@ -78,11 +75,7 @@ Here are some ideas to get you started:
 ## Mobile Technologies
 <img src ="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   
-<!--br/><br/>
-## My GitHub Profile Trophy  
-[![trophy](https://github-profile-trophy.vercel.app/?username=annecgs&theme=onedark)](https://github.com/annecgs/github-profile-trophy)-->
-
-
 <!--![Snake animation](https://github.com/annecgs/annecgs/blob/output/github-contribution-grid-snake.svg)-->
-![Snake animation](https://raw.githubusercontent.com/annecgs/annecgs/output/github-contribution-grid-snake-dark.svg)
+
  
+![Snake animation](https://raw.githubusercontent.com/annecgs/annecgs/output/github-contribution-grid-snake-dark.svg)
