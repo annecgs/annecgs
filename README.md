@@ -21,6 +21,12 @@
 ## My Soft Skills
 <li>I am a creative, curious and empathetic person</li>
 
+<br/>br/>
+<div float = "left">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=annecgs&theme=blue-green"/>
+<img src = "https://github-readme-stats.vercel.app/api?username=annecgs&theme=blue-green"/>
+</div>
+
 <br/>
 
 ## Mobile Badges
