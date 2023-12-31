@@ -33,12 +33,10 @@
 <table>
   <tr>
     <td valign="top"> <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=annecgs&theme=dracula"/></td>
-    <td valign="top"><img src = "https://github-profile-trophy.vercel.app/?username=annecgs&row=2&theme=onedark"/></td>
   </tr>
 </table>
-
 </br>
-
+<img src = "https://github-profile-trophy.vercel.app/?username=annecgs&row=1&theme=onedark"/>
 </br>
 <br/>
 
