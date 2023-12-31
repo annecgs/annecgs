@@ -27,7 +27,10 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=annecgs&theme=dracula"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=annecgs&theme=dracula"/> 
 </div>
-<img src = "https://github-readme-stats.vercel.app/api?username=annecgs&theme=dracula"/>
+
+<div align="center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=annecgs&theme=dracula"/>
+</div>  
 </br>
 <img src = "https://github-profile-trophy.vercel.app/?username=annecgs&row=1&theme=onedark"/>
 </br>
