@@ -24,10 +24,8 @@
 <br/><br/>
 
 
-<div float = "left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=annecgs&theme=dracula"/> 
 <img src = "https://github-readme-stats.vercel.app/api?username=annecgs&theme=dracula"/>
-</div>
 </br>
 <img src = "https://github-profile-trophy.vercel.app/?username=annecgs&row=1"/>
 </br>
