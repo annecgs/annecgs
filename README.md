@@ -25,9 +25,14 @@
 
 <table>
   <tr>
-    <td valign="top"> <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=annecgs&theme=dracula"/></td>
     <td valign="top"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=annecgs&theme=dracula"/></td>
     <td valign="top"> <img src = "https://github-readme-stats.vercel.app/api?username=annecgs&theme=dracula"/></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td valign="top"> <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=annecgs&theme=dracula"/></td>
   </tr>
 </table>
 
