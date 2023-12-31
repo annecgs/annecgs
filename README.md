@@ -46,6 +46,7 @@
 <img src = "https://user-images.githubusercontent.com/103140224/196045848-0d64228f-08c8-4aa2-a505-516a2419a50d.png" witdh="100px" height="100px"/>
 <img src = "https://user-images.githubusercontent.com/103140224/196045892-9cbf4873-d1b6-4033-9bb8-9ce3b0e7de1e.png" witdh="100px" height="100px"/>
 <img src = "https://user-images.githubusercontent.com/103140224/196045905-f35babed-c600-4192-b742-2c2c68bb3a1b.png" witdh="100px" height="100px"/>
+<img src = "https://github.com/annecgs/annecgs/assets/103140224/3046c84c-8ccd-41ae-92f9-0da3825d684c.png" width="90px" height="90px"/>  
 </div>
 
 ## Mobile Languages
