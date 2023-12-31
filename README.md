@@ -1,9 +1,5 @@
 
-<!--![Profile views](https://gpvc.arturio.dev/annecgs)-->
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=Portfolio%20Mobile%20em%20Desenvolvimento&color=993399&style=for-the-badge)
-<!--h1 text align = "center">Ana Claudia Mobile Developer</h1-->
-
-<!--![](https://komarev.com/ghpvc/?username=annecgs&style=flat-square&color=green)-->
 
 
 
@@ -13,27 +9,6 @@
   <a href="https://codepen.io/AnaGomes" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
 </di>
 </h1>
-
-
-
-<!--### Hello, I'm Ana, Brazilian, from Rio de Janeiro and a technology professional with skills in mobile development, front-end, back-end and data science.-->
-
-<!--https://readme-typing-svg.herokuapp.com/demo/-->
-
-<!--
-**annecgs/annecgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <br/>
 
@@ -47,13 +22,6 @@ Here are some ideas to get you started:
 <li>I am a creative, curious and empathetic person</li>
 
 <br/>
-
-## My Android Development Performance
-<div>
-  <a href="https://github.com/annecgs">
-  <img src="https://github-readme-stats.vercel.app/api?username=annecgs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annecgs&theme=dracula"/>
-</div>
 
 ## Mobile Badges
 
@@ -71,11 +39,3 @@ Here are some ideas to get you started:
 
 ## IDE
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/> <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-
-## Mobile Technologies
-<img src ="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  
-<!--![Snake animation](https://github.com/annecgs/annecgs/blob/output/github-contribution-grid-snake.svg)-->
-
- 
-![Snake animation](https://raw.githubusercontent.com/annecgs/annecgs/output/github-contribution-grid-snake-dark.svg)
