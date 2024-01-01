@@ -49,8 +49,6 @@
 <img src = "https://github.com/annecgs/annecgs/assets/103140224/3046c84c-8ccd-41ae-92f9-0da3825d684c.png" width="90px" height="90px"/>  
 </div>
 
-## Mobile Languages
-<img src = "https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" /> <img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 
 ## Mobile Frameworks
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
