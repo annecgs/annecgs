@@ -36,9 +36,6 @@
   </tr>
 </table>
 </br>
-<img src = "https://github-profile-trophy.vercel.app/?username=annecgs&row=1&theme=onedark"/>
-</br>
-<br/>
 
 ## Mobile Badges
 
