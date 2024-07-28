@@ -44,7 +44,7 @@
 - Quick adaptation to changes
 - Emotional intelligence
 <br/><br/>
-<p>From 2020 to 2023, I will participate in several bootcamps to develop my skills as a Java, back-end and fullstack developer.</p>
+<p>From 2020 to 2023, I will participate in several bootcamps to develop my skills as a Android and Flutter developer.</p>
 
 ## Mobile Badges
 <table>
