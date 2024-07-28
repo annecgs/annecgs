@@ -70,7 +70,7 @@
      <td style="text-align: center;">
       <div align="center">
       <img src = "https://github.com/user-attachments/assets/19cff7ee-a41d-4a17-8de7-43c87b224535" width="100px" height="100px"/>  
-      <p>Android Developer NTT DATA <br/> 2023</p>
+      <p>Mobile com Flutter Santander <br/> 2023</p>
       </div>
     </td>
   </tr>
