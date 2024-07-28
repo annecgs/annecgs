@@ -27,20 +27,54 @@
 </table>
 </br>
 
-## Mobile Badges
-
+## Hard Skills
 <div float="left">
-<img src = "https://user-images.githubusercontent.com/103140224/196045848-0d64228f-08c8-4aa2-a505-516a2419a50d.png" witdh="100px" height="100px"/>
-<img src = "https://user-images.githubusercontent.com/103140224/196045892-9cbf4873-d1b6-4033-9bb8-9ce3b0e7de1e.png" witdh="100px" height="100px"/>
-<img src = "https://user-images.githubusercontent.com/103140224/196045905-f35babed-c600-4192-b742-2c2c68bb3a1b.png" witdh="100px" height="100px"/>
-<img src = "https://github.com/annecgs/annecgs/assets/103140224/3046c84c-8ccd-41ae-92f9-0da3825d684c.png" width="90px" height="90px"/>  
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </div>
+<br/><br/>
+🎯 My main soft skills are:
 
+- Resilience
+- Empathy
+- Collaboration
+- Quick adaptation to changes
+- Emotional intelligence
+<br/><br/>
+<p>From 2020 to 2023, I will participate in several bootcamps to develop my skills as a Java, back-end and fullstack developer.</p>
 
-## Mobile Frameworks
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+## Mobile Badges
+<table>
+  <tr>
+    <td style="text-align: center;">
+      <div align="center">
+     <img src = "https://user-images.githubusercontent.com/103140224/196045848-0d64228f-08c8-4aa2-a505-516a2419a50d.png" witdh="100px" height="100px"/>
+      <p>Android Developer Carrefour <br/> 2021</p>
+      </div>
+    </td>
+    <td style="text-align: center;">
+      <div align="center">
+      <img src = "https://user-images.githubusercontent.com/103140224/196045892-9cbf4873-d1b6-4033-9bb8-9ce3b0e7de1e.png" witdh="120px" height="120px"/>
+      <p>Android Developer Banco Inter </br> 2021</p>
+      </div>
+    </td>
+    <td style="text-align: center;">
+      <div align="center">
+      <img src = "https://user-images.githubusercontent.com/103140224/196045905-f35babed-c600-4192-b742-2c2c68bb3a1b.png" witdh="120px" height="120px"/>
+      <p>Android Developer NTT DATA <br/> 2023</p>
+      </div>
+    </td>
+     <td style="text-align: center;">
+      <div align="center">
+      <img src = "https://github.com/user-attachments/assets/19cff7ee-a41d-4a17-8de7-43c87b224535" width="100px" height="100px"/>  
+      <p>Android Developer NTT DATA <br/> 2023</p>
+      </div>
+    </td>
+  </tr>
+</table>
 
-## IDE
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/> <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 
 ![Snake animation](https://raw.githubusercontent.com/annecgs/annecgs/output/github-contribution-grid-snake-dark.svg)
