@@ -42,3 +42,5 @@
 
 ## IDE
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/> <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+
+![Snake animation](https://raw.githubusercontent.com/annecgs/annecgs/output/github-contribution-grid-snake-dark.svg)
