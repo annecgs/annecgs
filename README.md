@@ -64,7 +64,7 @@
     <td style="text-align: center;">
       <div align="center">
       <img src = "https://user-images.githubusercontent.com/103140224/196045905-f35babed-c600-4192-b742-2c2c68bb3a1b.png" witdh="120px" height="120px"/>
-      <p>Android Developer NTT DATA <br/> 2023</p>
+      <p>Android Developer NTT DATA <br/> 2022</p>
       </div>
     </td>
      <td style="text-align: center;">
