@@ -45,7 +45,7 @@
 </div>
 <br/>
 
-### Backend-as-a-Service (BaaS) Platform
+### Backend as a Service (BaaS) Platform
 <img src = "https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/><br/>
 
 ### IDE
