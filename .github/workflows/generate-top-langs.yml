@@ -1,0 +1,41 @@
+name: Generate Top Langs Stats
+
+on:
+  # Execute a cada 12 horas
+  schedule:
+    - cron: "0 */12 * * *"
+  
+  # Permite execução manual
+  workflow_dispatch:
+  
+  # Executa sempre que houver push na branch main
+  push:
+    branches:
+    - main
+
+jobs:
+  generate-stats:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    steps:
+      # Baixa o repositório
+      - name: Check out repository
+        uses: actions/checkout@v3
+
+      # Gerar estatísticas de linguagens
+      - name: Generate Top Languages Stats
+        run: |
+          curl -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+               "https://github-readme-stats.vercel.app/api/top-langs?username=annecgs&count_private=true&show_icons=true&theme=radical" \
+               -o dist/top-langs.svg
+          
+      # Envia a imagem para o branch de saída
+      - name: Push Top Languages to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
