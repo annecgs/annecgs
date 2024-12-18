@@ -6,7 +6,7 @@
 
 <table>
   <tr>
-    <td valign="top"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=annecgs&theme=dracula"/></td>
+    <td valign="top"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=annecgs&theme=dracula"&count_private=true"/></td>
     <td valign="top"> <img src = "https://github-readme-stats.vercel.app/api?username=annecgs&theme=dracula&count_private=true"/></td>
   </tr>
 </table>
