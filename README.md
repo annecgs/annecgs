@@ -8,7 +8,13 @@
   <tr>
     <!--td valign="top"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=annecgs&theme=dracula"&count_private=true"/></td-->
     <td valign="top"> <img src = "https://github-readme-stats.vercel.app/api?username=annecgs&theme=dracula&count_private=true"/></td>
-     <td valign="top"> <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=annecgs&theme=dracula&hide=html&count_private=true&show_icons=true"/></td>
+     <td valign="top"><img src = "https://github-readme-streak-stats.herokuapp.com/?user=annecgs&theme=dracula"/></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td valign="top"> <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=annecgs&theme=dracula&hide=html&count_private=true&show_icons=true"/></td>
   </tr>
 </table>
 
