@@ -12,7 +12,7 @@
   </tr>
 </table>
 
-<table>
+<!--table>
   <tr>
     <td valign="top"><img src = "https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=rogue"/></td>
   </tr>
@@ -22,7 +22,7 @@
   <tr>
     <td valign="top"> <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=annecgs&theme=dracula&hide=html&count_private=true&show_icons=true"/></td>
   </tr>
-</table>
+</table-->
 
 ## Hard Skills
 ### Programming languages
