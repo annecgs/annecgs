@@ -3,13 +3,9 @@
 
 <br/>
 
+<h1>🛠 Skills</h1>
 
-<table>
-  <tr>
-    <td valign="top"> <img src = "https://github-readme-stats.vercel.app/api?username=annecgs&theme=dracula"/></td>
-     <td valign="top"><img src = "https://github-readme-streak-stats.herokuapp.com/?user=annecgs&theme=dracula"/></td>
-  </tr>
-</table>
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,idea,gradle,kotlin,ktor,firebase,github,git,githubactions)](https://skillicons.dev)
 
 
 ![Snake animation](https://raw.githubusercontent.com/annecgs/annecgs/output/github-contribution-grid-snake-dark.svg)
